@@ -16,7 +16,7 @@ double square_root(double num){
   }
 }
 
-int factorial(int num){
+double factorial(double num){
   if(num <= 1){
     return 1;
   }

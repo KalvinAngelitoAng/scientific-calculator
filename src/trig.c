@@ -1,13 +1,13 @@
 #include "../include/trig.h"
 
-double sin(double angle){
+double sinus(double angle){
   return sin(angle);
 }
 
-double cos(double angle){
+double cosinus(double angle){
   return cos(angle);
 }
 
-double tan(double tan){
-  return tan;
+double tangent(double angle){
+  return tan(angle);
 }

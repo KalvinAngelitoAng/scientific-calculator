@@ -3,8 +3,8 @@
 
 #include <math.h>
 
-double sin(double angle);
-double cos(double angle);
-double tan(double angle);
+double sinus(double angle);
+double cosinus(double angle);
+double tangent(double angle);
 
 #endif

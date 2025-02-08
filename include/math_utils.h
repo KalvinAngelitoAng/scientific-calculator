@@ -3,7 +3,7 @@
 
 double power(double base, double exponent);
 double square_root(double num);
-int factorial(int num);
+double factorial(double num);
 double log_base_10(double num);
 double log_base_e(double num);
 
