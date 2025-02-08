@@ -1,2 +1,2 @@
 # scientific-calculator
-A scientific calculator program based on C Langunage
+A scientific calculator program based on C Language

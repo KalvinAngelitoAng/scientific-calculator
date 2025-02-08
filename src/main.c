@@ -6,6 +6,6 @@
 
 int main(){
 
-
+  //Buatnya disini aja ga perlu pakai fungsi di luar main
   return 0;
 }
