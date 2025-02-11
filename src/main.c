@@ -101,7 +101,7 @@ void aritmeticsMenu(){
       printf("===============================\n");
       printf("Enter Two Numbers: \n");
       printf("===============================\n");
-      scanf("%.2lf %.2lf", &num1, &num2);
+      scanf("%lf %lf", &num1, &num2);
       system("cls");
       printf("===============================\n");
       printf("%.2lf - %.2lf = %.2lf\n", num1, num2, subtract(num1, num2));
@@ -336,10 +336,10 @@ void advanceMathMenu(){
     }
   }
 }
+
 int main(){
 
   mainMenu();
-
   
   return 0;
 }
